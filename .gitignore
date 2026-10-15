@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# segredos e configuração local
+.env
+
+# mídia e saídas pesadas (nunca versionar vídeo, áudio ou renders)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.m4v
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.png
+*.jpg
+*_edicao/
+*_render/
+_edicao/
+_visual/
+final/
+final_musica/
+trabalho/
+reprovadas/
+_saida*/
+segmentos/
+
+# artefatos de análise gerados
+analise.json.pre_fa
+analise.json.pre_limpeza
+*.tmp
+_fator_libass.json
+
+# modelos e fontes de terceiros (baixar conforme models/README.md e fonts/README.md)
+models/*.onnx
+models/*.pt
+models/*.bin
+fonts/*.ttf
+fonts/*.otf
+
+# backups
+*.bak*
+*.antes-*

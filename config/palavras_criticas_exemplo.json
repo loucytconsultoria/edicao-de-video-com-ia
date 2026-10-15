@@ -1,0 +1,12 @@
+{
+  "_leiame": "Duas listas por roteiro (chave = nome do arquivo de roteiro sem extensao; 'todos' vale para todas as pecas). OBRIGATORIAS: palavras que NAO podem sumir da peca - o portao checar_palavras reprova se faltarem. PROIBIDAS: trechos ditos errado na gravacao que quem aprova mandou cortar - o montador melhor_de excisa e o portao reprova se aparecerem. Aponte VIDEO_IA_CRITICAS para o seu arquivo.",
+  "obrigatorias": {
+    "todos": [],
+    "roteiro_exemplo": ["backup", "servidor"]
+  },
+  "proibidas": {
+    "roteiro_exemplo": [
+      {"trecho": "desde 1919", "motivo": "ano errado na gravacao (era 2019); cortar"}
+    ]
+  }
+}

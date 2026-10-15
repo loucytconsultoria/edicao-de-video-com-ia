@@ -1,0 +1,24 @@
+{
+  "_leiame": "Identidade visual NEUTRA de exemplo. Troque pelas cores, fontes e textos da sua marca (ou aponte VIDEO_IA_IDENTIDADE para outro arquivo). Fontes nao vem no repositorio: veja fonts/README.md.",
+  "nome": "exemplo",
+  "cores": {
+    "fundo": "#1F2A44",
+    "fundo_claro": "#F4F1EA",
+    "texto": "#FFFFFF",
+    "texto_escuro": "#111111",
+    "acento": "#F2B134"
+  },
+  "fontes": {
+    "titulo": {"familia": "Montserrat ExtraBold", "arquivo": "Montserrat-ExtraBold.ttf", "reserva": "arialbd.ttf"},
+    "corpo": {"familia": "Montserrat", "arquivo": "Montserrat-Medium.ttf", "reserva": "arial.ttf"}
+  },
+  "legenda": {
+    "estilo": "karaoke",
+    "fonte": "Arial",
+    "cor_destaque": "F2B134",
+    "max_palavras": 3,
+    "calar_silencio": 0.30
+  },
+  "marca": {"texto": "SUA MARCA", "logo_png": null},
+  "endcard": {"texto": "SAIBA MAIS", "subtitulo": "exemplo.com"}
+}

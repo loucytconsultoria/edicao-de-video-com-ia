@@ -1,0 +1,14 @@
+{
+ "padrao": {
+  "cortar_silencio": true,
+  "modo_916": "blur",
+  "identidade": "config/identidade_exemplo.json",
+  "legendas": {"estilo": "karaoke", "calar_silencio": 0.30},
+  "endcard": {"texto": "SAIBA MAIS", "subtitulo": "exemplo.com", "dur": 2.0},
+  "overlays": [{"tipo": "barra_progresso", "altura": 10}]
+ },
+ "videos": {
+  "webinar_parte1.mp4": {"in": 120.0, "out": 210.0},
+  "teste_de_som.mp4": {"pular": true}
+ }
+}

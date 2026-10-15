@@ -1,0 +1,10 @@
+{
+  "_leiame": "Forma FALADA de siglas e simbolos do seu dominio, para o alinhador fonetico (que casa letra com som). Chave em minusculas; valor = lista de hipoteses, a de melhor score vence. Aponte VIDEO_IA_PRONUNCIAS para o seu arquivo.",
+  "rh": ["erre aga"],
+  "ti": ["te i"],
+  "kpi": ["ca pe i", "kei pi ai"],
+  "crm": ["ce erre eme"],
+  "erp": ["e erre pe"],
+  "sla": ["esse ele a"],
+  "q1": ["primeiro trimestre", "que um"]
+}

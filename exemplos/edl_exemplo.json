@@ -1,0 +1,18 @@
+{
+ "saida": {"arquivo": "modulo01.mp4", "pasta_trabalho": "modulo01_render"},
+ "identidade": "../config/identidade_exemplo.json",
+ "capa": {"png": "capa.png", "dur": 0.8},
+ "clips": [
+  {"src": "take1.mp4", "in": 3.20, "out": 18.75, "analise": "trabalho/take1",
+   "modo_916": "rosto", "cortar_silencio": false},
+  {"src": "take2.mp4", "in": 41.10, "out": 52.40, "analise": "trabalho/take2",
+   "modo_916": "rosto", "cortar_silencio": false, "silencio_antes": 0.30}
+ ],
+ "legendas": {"estilo": "karaoke", "calar_silencio": 0.30},
+ "overlays": [
+  {"tipo": "faixa_texto", "nome": "Nome Sobrenome", "cargo": "Gerente de Treinamento", "de": 1.0, "ate": 5.0},
+  {"tipo": "barra_progresso", "altura": 12}
+ ],
+ "endcard": {"texto": "FIM DO MÓDULO 1", "subtitulo": "exemplo.com", "dur": 2.0},
+ "loudnorm": true
+}

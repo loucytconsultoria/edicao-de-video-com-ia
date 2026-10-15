@@ -1,0 +1,7 @@
+# Roteiro de exemplo (uma frase ou parágrafo por linha; linhas com # são ignoradas).
+# Fim de parágrafo é fronteira dura para o montador: uma chamada curta no fim
+# não é grudada na frase anterior.
+Bem-vindo ao treinamento de segurança.
+Hoje vamos revisar o backup do servidor.
+Antes de sair, salve o arquivo e confira se o backup terminou.
+Se der erro, abra um chamado para o suporte.

@@ -1,0 +1,9 @@
+# Motor de edição (Python 3.10+). ffmpeg com libass precisa estar no PATH.
+numpy>=1.26
+Pillow>=10.1
+rapidfuzz>=3.0
+num2words>=0.5.13
+faster-whisper>=1.0        # transcrição (baixa o modelo no primeiro uso)
+torch>=2.1                 # alinhamento fonético MMS_FA (baixa os pesos no primeiro uso)
+torchaudio>=2.1
+opencv-python>=4.8         # detecção de rosto (YuNet) e checagens visuais
